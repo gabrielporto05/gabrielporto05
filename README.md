@@ -15,7 +15,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Olá! Eu sou o Gabriel Martins Moraes Porto. Sou desenvolvedor Front End com experiência em construção de aplicações web e mobile funcionais e escaláveis, utilizando tecnologias modernas como React.js, React Native, Next.js e TypeScript. Tenho experiência em integração de APIs REST e versionamento com Git/GitHub. Busco sempre escrever código limpo, legível e de fácil manutenção. Gosto de trabalhar em equipe e sou focado em entregar projetos de alta qualidade.
+Olá! Eu sou o Gabriel Martins Moraes Porto. Sou desenvolvedor Front End com experiência em construção de aplicações web e mobile funcionais e escaláveis, utilizando tecnologias modernas como React.js, React Native, Next.js e TypeScript. Tenho experiência em integração de APIs REST e versionamento com Git/GitHub. Busco sempre escrever código limpo, legível e de fácil manutenção.
 
 ## 📊 Estatísticas
 
