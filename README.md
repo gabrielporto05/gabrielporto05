@@ -71,12 +71,6 @@ Olá! Eu sou o Gabriel Martins Moraes Porto. Sou desenvolvedor Front End com exp
     <td align="center">
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
-    </td>
   </tr>
 </table>
 
@@ -88,6 +82,9 @@ Olá! Eu sou o Gabriel Martins Moraes Porto. Sou desenvolvedor Front End com exp
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_Native_Paper-6200EE?style=for-the-badge&logo=material-design&logoColor=white" alt="React Native Paper"/>
     </td>
   </tr>
 </table>
@@ -115,8 +112,8 @@ Olá! Eu sou o Gabriel Martins Moraes Porto. Sou desenvolvedor Front End com exp
   <h3>🤝 Vamos conectar e construir algo incrível juntos!</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielporto05/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chines05)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel@exemplo.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielporto05)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpalmenara@gmail.com)
 
 </div>
 
