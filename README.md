@@ -67,8 +67,8 @@ Desenvolvedor de Software focado na construção de soluções escaláveis e efi
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielporto05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielporto05&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielportodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportodev&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
 
 ---
