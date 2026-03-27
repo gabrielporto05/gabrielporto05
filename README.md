@@ -11,7 +11,7 @@
     <strong>Transformando conceitos complexos em interfaces fluidas e backends robustos.</strong>
   </p>
 
-  <a href="https://www.linkedin.com/in/gabrielporto05/">
+  <a href="https://www.linkedin.com/in/gabrielportodev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gpalmenara@gmail.com">
