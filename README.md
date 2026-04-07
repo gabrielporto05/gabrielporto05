@@ -22,12 +22,15 @@
   </a>
 </div>
 
+---
+
 ## 🚀 Sobre Mim
 
-Desenvolvedor de Software focado na construção de soluções escaláveis e eficientes. Minha base técnica transita entre a agilidade do ecossistema React/Next.js e a robustez do Java/Spring Boot. Experiência comprovada em sistemas que atendem milhares de usuários, com foco rigoroso em código limpo, performance e resiliência.
+Desenvolvedor de Software dedicado à criação de sistemas robustos e eficientes. Minha expertise transita entre a agilidade do ecossistema **React/Next.js** e a resiliência do **Java/Spring Boot**. Atualmente, foco no desenvolvimento de arquiteturas modernas e escaláveis, aplicando rigorosamente princípios de **Clean Code**, **S.O.L.I.D** e metodologias ágeis.
 
-* ⚙️ **Foco Atual:** Aprofundando em arquiteturas de mensageria, resiliência de sistemas e infraestrutura ágil.
-* 🌐 **Ecossistema:** Contribuindo ativamente para soluções digitais institucionais no IFNMG.
+* ⚙️ **Foco Atual:** Especialização em arquitetura de microserviços e ecossistema Java.
+* 🎓 **Acadêmico:** Graduando em Análise e Desenvolvimento de Sistemas (IFNMG).
+* 🛠️ **Prática:** Liderança técnica em projetos institucionais e soluções SaaS.
 
 ---
 
@@ -42,7 +45,6 @@ Desenvolvedor de Software focado na construção de soluções escaláveis e efi
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </div>
 
 ### 🎨 Frontend & Mobile
