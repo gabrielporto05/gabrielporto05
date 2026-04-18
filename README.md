@@ -76,6 +76,5 @@ Desenvolvedor de Software dedicado à criação de sistemas robustos e eficiente
 ---
 
 <div align="center">
-  <h3>Construindo o futuro, um commit de cada vez. 🚀</h3>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=100&section=footer" />
 </div>
